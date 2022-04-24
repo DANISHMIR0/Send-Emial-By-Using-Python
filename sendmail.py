@@ -23,5 +23,3 @@ server.login(From_which_Email,From_which_Email_Pwd)
 server.send_message(Message)
 print("Mail Sent")
 server.quit()
-
-#justfortestpurpose300@gmail.com','Qwerty@12345
